@@ -2,7 +2,7 @@
 
 Course project for Bayesian Methods 2018, Skoltech
 
-Papers: 
+PapersOverleaf: 
   1. Deep Prior: http://bayesiandeeplearning.org/2017/papers/61.pdf 
   2. Towards a Neural Statistician: https://openreview.net/pdf?id=HJDBUF5le
   
@@ -13,3 +13,6 @@ Papers:
 Team members:
   1. Egor Nuzhin
   2. Ivan Anokhin 
+  
+  Report:
+  : https://www.overleaf.com/8998985132ygmhmfrmsyhp
