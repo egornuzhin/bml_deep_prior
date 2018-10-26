@@ -13,6 +13,3 @@ PapersOverleaf:
 Team members:
   1. Egor Nuzhin
   2. Ivan Anokhin 
-  
-  Report:
-  : https://www.overleaf.com/8998985132ygmhmfrmsyhp
