@@ -2,7 +2,7 @@
 
 Course project for Bayesian Methods 2018, Skoltech
 
-: Papers:
+Papers:
   1. Deep Prior: http://bayesiandeeplearning.org/2017/papers/61.pdf 
   2. Towards a Neural Statistician: https://openreview.net/pdf?id=HJDBUF5le
   
